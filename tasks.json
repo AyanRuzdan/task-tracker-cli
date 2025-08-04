@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "desc": "Eat bread",
+    "status": "in-progress",
+    "createdAt": "2025-07-17T18:43:33.976Z",
+    "updatedAt": "2025-07-17T19:07:16.679Z"
+  },
+  {
+    "id": 2,
+    "desc": "Task 2",
+    "status": "todo",
+    "createdAt": "2025-07-17T19:05:31.140Z",
+    "updatedAt": "2025-07-17T19:05:31.140Z"
+  }
+]
